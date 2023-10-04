@@ -1,0 +1,13 @@
+p {
+	background-color: green;
+	color:white;
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+}
+h1 {
+	text-shadow: 2.5px 1.5px 8px blue;
+	text-align: center;
+}
+
+	
