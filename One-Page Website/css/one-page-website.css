@@ -1,0 +1,50 @@
+/*----------------------------------------------------
+Basic Styles
+------------------------------------------------------*/
+
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 87.5%;
+}
+.submission-form {
+    max-width: 50%;
+    background-color: grey;
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+    border: 5px solid;
+    border-color: black;
+    box-shadow: 1px 1px 1px 0px gold;
+
+}
+.submission-form h2{
+    text-align: center;
+    padding: auto;
+    font-size: large;
+}
+.submission-form p{
+    text-align: center;
+    font-size: medium;
+    padding: auto;
+}
+.submission-form form{
+    background-color: lightgrey;
+    border: 5px;
+    border: solid;
+    border-color: black;
+    padding: 15px;
+    text-align: center;
+
+
+}
+.submission-form input{
+    width: 35%;
+    margin: 10px 1em;
+    border: solid;
+    border-radius: 7px;
+    padding: 2% 1% 1% 7%;
+}
+
+.terms{
+    text-align: center;
+}
